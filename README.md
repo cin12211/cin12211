@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### <h2> Hi I am Cinny 👋 <img src="" width="130"></h2>
+### <h2> Hi I am Cinny 👋  </h2>
 
 <img align='right' src="https://i.pinimg.com/564x/8c/72/44/8c7244fbc7569df63a2efae3a5de6aca.jpg" width="338">
 
