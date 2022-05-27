@@ -1,16 +1,39 @@
 ### Hi there 👋
 
-<!--
-**cin12211/cin12211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <h2> Hi I am Cinny 👋 <img src="" width="130"></h2>
 
-Here are some ideas to get you started:
+<img align='right' src="https://i.pinimg.com/564x/8c/72/44/8c7244fbc7569df63a2efae3a5de6aca.jpg" width="338">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+
+export const mySelf ={
+  nationality: "Vietnamese",
+  pronouns: "He" | "Him",
+  askMeAbout: [
+    "webdev", "reactjs dev", "front-end dev", "html",
+    "css", "javascript", "typescript", "graphql", "mysql", "mongodb", "nestjs", "expressjs", "golang"
+  ],
+  technologies: {
+    frontEnd: {
+      js: ["react"],
+      css: ["antd", "bootstrap", ...]
+    },
+    backEnd: {
+      js: ["graphql", "express", "nest"],
+      etclang : ["golang"],
+      misc: ["windows", "ubuntu", "docker"]
+    },
+    databases: ["MySQL", "MongoDb"]
+  },
+  experience: "I have more than 3 years and work in software development." 
+};
+
+```
+
+![Cinny github stats](https://github-readme-stats.vercel.app/api?username=cin12211&count_private=true&show_icons=true&theme=dracula&hide=contribs,prs)
+
+<a href="mailto:chinhkhacnguyen29@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chinhkhacnguyen29@gmail.com" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+---
+
+⭐️ From [@Cinny](https://github.com/cin12111)
