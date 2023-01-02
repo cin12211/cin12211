@@ -37,4 +37,3 @@ export const mySelf ={
 ---
 
 ⭐️ From [@Cinny](https://github.com/cin12111)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cin12111)](https://github.com/anuraghazra/github-readme-stats)
